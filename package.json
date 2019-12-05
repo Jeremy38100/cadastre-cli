@@ -10,6 +10,7 @@
     "cadastre",
     "cli"
   ],
+  "bin": "./index.js",
   "author": "Jeremy38100",
   "license": "MIT",
   "dependencies": {
@@ -20,5 +21,9 @@
     "request-promise": "^4.2.5",
     "terminal-link": "^2.0.0",
     "zlib": "^1.0.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Jeremy38100/cadastre-cli/issues"
+  },
+  "homepage": "https://github.com/Jeremy38100/cadastre-cli#readme"
 }
