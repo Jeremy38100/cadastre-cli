@@ -13,7 +13,7 @@ _cadastre-cli_ is a tool to query french cadastre. From city (_nom_ ou _code pos
 # cadastre-cli
 
 ## Installation
-`npm i -g cadsatre-cli`
+`npm i -g cadastre-cli`
 
 ## Usage
-`cadsatre-cli`
+`cadastre-cli`
