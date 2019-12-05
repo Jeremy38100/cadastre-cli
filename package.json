@@ -1,0 +1,24 @@
+{
+  "name": "cadastre-cli",
+  "version": "1.0.0",
+  "description": "CLI to query French cadastre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cadastre",
+    "cli"
+  ],
+  "author": "Jeremy38100",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.0",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "terminal-link": "^2.0.0",
+    "zlib": "^1.0.5"
+  }
+}
