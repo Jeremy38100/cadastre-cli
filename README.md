@@ -7,7 +7,7 @@ _cadastre-cli_ is a tool to query french cadastre. From city (_nom_ ou _code pos
  * link to _GoogleMaps_ and _Geoportail_
 
 <p align="center">
-  ![Demo](https://github.com/Jeremy38100/cadastre-cli/raw/master/resources/cadastre-cli.gif, "cadastre-cli demo2")
+  ![Demo](https://github.com/Jeremy38100/cadastre-cli/raw/master/resources/cadastre-cli.gif)
 </p>
 
 # cadastre-cli
