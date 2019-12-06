@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/npm/v/cadastre-cli.svg)](https://www.npmjs.com/package/cadastre-cli)
 
 _cadastre-cli_ is a tool to query french cadastre. From city (_nom_ ou _code postal_), _section_, and _numero de parcelle_ find:
- * surface area (m2)
+ * surface area (m²)
  * location (lat, lng)
  * link to _GoogleMaps_ and _Geoportail_
 
