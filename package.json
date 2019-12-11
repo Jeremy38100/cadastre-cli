@@ -8,7 +8,9 @@
   },
   "keywords": [
     "cadastre",
-    "cli"
+    "cli",
+    "geoportal",
+    "map"
   ],
   "bin": "./index.js",
   "author": "Jeremy38100",
